@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../../../index.htm">Home</a></li>
+	<li><a href="../../../../about.htm">About Me</a></li>
+	<li><a href="../../../../work.htm">My Work</a></li>
+
+	<ul>
+	  <li><a href="../../../poetry.htm">Poetry</a></li>
+	  <li><a href="../../../writing.htm">Writing</a></li>
+	  <li><a href="../../../photography.htm">Photography ☜</a></li>
+	</ul>
+	
+	<li><a href="../../../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../../../noongar.htm">Noongar</a></li>
+	<li><a href="../../../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>Coast</h2>
+
+      <fig>
+	<img src="../DSCN5599.JPG" alt="A seagull perches on top of a streetlamp." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN5651.JPG" alt="The sunset reflects a column of light across the ocean to the beach." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN5673.JPG" alt="A dark orange sunset reflects spectacularly on clouds and over the ocean." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN6059.JPG" alt="A pod of dolphins break the surface with their fins and noses." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN6100.JPG" alt="A flock of seagulls fly past a column of sunlight that silhouettes a rocky island." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+      
+    </main>
+    <footer>
+      <img src="../../../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

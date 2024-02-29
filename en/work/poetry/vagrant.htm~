@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>Vagrant</h2>
+      
+      <p>Man of the mountains<br>
+	Man of the plains
+      </p>
+
+      <p>Man of the forests<br>
+	And the sprawling waves
+      </p>
+
+      <p>That pass under the boat<br>
+	Compressed and reshaped
+      </p>
+
+      <p>From sunny Santa Catalina<br>
+	To the vessels of my heart.
+      </p>
+
+      <p>I feel every pulse and every beat<br>
+	The fleeting warmth in wayward feet
+      </p>
+
+      <p>That track across vast distant lands<br>
+	Like a vagrant desert lizard
+      </p>
+
+      <p>Never standing in one place.</p>
+
+      <p>I trace the steps of you,<br>
+	Long travelling one
+      </p>
+
+      <p>And linger in your prints<br>
+	Your shadow, your smell
+      </p>
+
+      <p>The shapes that remain<br>
+	Long after you have gone
+      </p>
+
+      <p>I would offer a home<br>
+	Though there is none but the journey
+      </p>
+
+      <p>And I will always be<br>
+	A step behind
+      </p>
+      
+    </main>
+    <footer>
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

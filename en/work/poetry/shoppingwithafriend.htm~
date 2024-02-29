@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>Shopping with a Friend</h2>
+
+      <p>Woolies is a bit expensive,<br>
+	I thought<br>
+	Why not Coles?<br>
+	To say nothing of SpudShed
+      </p>
+
+      <p>But Woolies is the place<br>
+	With things that make you comfortable<br>
+	Or maybe an IGA<br>
+	But we don't have those here
+      </p>
+
+      <p>So we go where I haven't entered</p>
+
+      <p>Since the crates crushed my fingers<br>
+	Between turnips and tall piles<br>
+	Of glistening carrots that could feed
+      </p>
+
+      <p>A whole genus of horses</p>
+
+      <p>But this is no place for masses<br>
+	Of questions<br>
+	It is the place to get breakfast<br>
+	Or maybe something for dinner
+      </p>
+
+      <p>How about this,<br>
+	sausages with a bit of spice?<br>
+	Don't they look nice?<br>
+	<span lang="ja">高い。美味しそうけど買わない<br>
+	  残念けど余裕がない</span>
+      </p>
+
+      <p>I need to get some chicken,<br>
+	and salmon, and<br>
+	kale in the bag<br>
+	No carbohydrates though,
+      </p>
+
+      <p>they're bad<br>
+	Let's just get the bare essentials<br>
+	and get out of here.<br>
+	this place
+      </p>
+
+      <p>Where I feel monstrous<br>
+	<span lang="ja">化け物みたい<br>
+	  何も絶対できない</span><br>
+	for being unable to buy
+      </p>
+
+      <p>anything nice<br>
+	until you extinguish my anguish<br>
+	with a slice of<br>
+	cured fish.
+      </p>
+      
+    </main>
+    <footer>
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

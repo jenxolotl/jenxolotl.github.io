@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../../../index.htm">Home</a></li>
+	<li><a href="../../../../about.htm">About Me</a></li>
+	<li><a href="../../../../work.htm">My Work</a></li>
+
+	<ul>
+	  <li><a href="../../../poetry.htm">Poetry</a></li>
+	  <li><a href="../../../writing.htm">Writing</a></li>
+	  <li><a href="../../../photography.htm">Photography ☜</a></li>
+	</ul>
+		
+	<li><a href="../../../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../../../noongar.htm">Noongar</a></li>
+	<li><a href="../../../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>A Trip to Esperance, 2022/23</h2>
+
+      <fig>
+	<img src="../esperance/20221222_135732.jpg" alt="Close-up of the pebbly red soil typical of the Southwest." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221222_170705.jpg" alt="Sunlight silhouetting a tree by a road in the Wheatbelt." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221223_143335.jpg" alt="Spectacular rocks off Twilight Beach in Esperance." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/DSCN0233.JPG" alt="Frenchman's Peak." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/DSCN0245.JPG" alt="A close-up of the cave on top of Frenchman's Peak." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_113926.jpg" alt="The sea between rocky hills at Cape Le Grand." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_123621.jpg" alt="A river flowing out to the sea over white sand, by a rocky outcrop in Cape Le Grand." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_124040.jpg" alt="An island seen in the distance from the beach at Cape Le Grand." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+      
+      <fig>
+	<img src="../esperance/20221228_124525.jpg" alt="Close-up of some seaweed on the beach at Cape Le Grand." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_124759.jpg" alt="Close-up of a shark's egg at the beach at Cape Le Grand." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_131259.jpg" alt="Beach in the distance from a rocky hill at Cape Le Grand." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_140603.jpg" alt="A very rocky bay at Cape Le Grand." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_144117.jpg" alt="Rocky headlands and islands at Cape Le Grand." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_144616.jpg" alt="A small plant growing in a rocky crevice, with the ocean visible in the background." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230101_111651.jpg" alt="Overtaking a road train on the highway out of Esperance." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230101_134341.jpg" alt="Distant hills seen across a wide dry farmland, with barbed wire fence in the foreground." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230101_134357.jpg" alt="A fence stretching to the horizon along a dry farm." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230101_134616.jpg" alt="A car appears tiny on a road surrounded by farmland." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230102_101110.jpg" alt="The partly dry Phillips River near Ravensthorpe." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+      
+    </main>
+    <footer>
+      <img src="../../../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

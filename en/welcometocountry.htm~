@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="Jenxolotl - Welcome to Country">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../styles.css">
+    <title>Jenxolotl - Welcome to Country</title>
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Welcome to Country<br>
+      Acknowledgement of Country</h1>
+      <ul>
+	<li><b>Home</b></li>
+	<li><a href="about.htm">About Me</a></li>
+	<li><a href="poetry.htm">Poetry</a></li>
+	<li><a href="languages.htm">Languages</a></li>
+	<li><a href="photos.htm">Photography</a></li>
+	<li><a href="contact.htm">Contact</a></li>
+      </ul>
+	
+    </header>
+
+    <main>
+      <p>What is a welcome to country?</p>
+      
+      <p>
+	If you have spent any time in Australia recently, you have probably noticed short speeches made before the start of almost any event, and little statements in pop-ups or at the bottoms of websites, 
+      </p>
+      
+    </main>
+    <footer>
+      <p>
+      <img src="../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>
+

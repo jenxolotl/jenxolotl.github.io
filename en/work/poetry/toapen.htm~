@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>To a Pen</h2>
+      <p>Little blue pen<br>
+	Lying on the footpath<br>
+	In the shadow of the bridgeway<br>
+	Across RPH
+      </p>
+
+      <p>I saw you there after work<br>
+	Me, tired and weary<br>
+	And you, sitting immaculately<br>
+	Like an angel sitting over weathered bricks.
+      </p>
+
+      <p>I thought of picking you up<br>
+	And putting you to my own use<br>
+	But thought of the Buddha's precept<br>
+	To let you be as you were
+      </p>
+
+      <p>I saw you again<br>
+	Battered and bruised<br>
+	The veins showing down your side,<br>
+	And shattered plastic harshly piercing
+      </p>
+
+      <p>The veil of tranquility.</p>
+
+      <p>Whether broken on the sidewalk<br>
+	Or faded on the page<br>
+	The striking colour still bleeds<br>
+	From blue into grey.
+      </p>
+      
+    </main>
+    <footer>
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

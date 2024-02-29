@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../styles.css">
+    <title>Jenxolotl - About Me</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="index.htm">Home</a>
+	</li>
+	<li><b>About Me</b>
+	</li>
+	<li><a href="work.htm">My Work</a>
+	</li>
+	<li><a href="sandgroper.htm">The Sandgroper</a>
+	</li>
+	<li><a href="aroundwa.htm">Around WA</a>
+	</li>
+	<li><a href="asianlanguages.htm">Asian Language Centre</a>
+	</li>
+	<li><a href="noongar.htm">Noongar</a>
+	</li>
+	<li><a href="diary.htm">Dust in the Rain</a>
+	</li>
+	<li><a href="contact.htm">Contact</a>
+	</li>
+      </ul>
+    </header>
+
+    <main>
+      <h2>About Me</h2>
+      
+      <p style="text-align: center;">
+	<i>A guide for the perplexed</i>
+      </p>
+      <p>
+	Hello everyone, welcome to my personal page!
+      </p>
+      <p>
+	My name is Jenxolotl, also known as Jennifer Wattlebird, and I am a <s>walking, talking axolotl</s> lifelong resident of the beautiful state of Western Australia, one of the most remote and sparsely inhabited places on Earth.
+      </p>
+      <p>
+	After being born in Rockingham (Mooriburdup), a seaside town to the south of Perth, I spent the earliest years of my life growing up in Newman, in the remote desert Pilbara region of North-Western Australia. I eventually moved back to Rockingham with my family, and have lived here ever since. Both the dusty red soil and sparse green scrub of my childhood, and the lakes and limestone cliffs of my birthplace have made their impression on me, and instilled in me a deep and lasting love and appreciation for country that I continually try to nurture and share with others.
+      </p>
+      <p>
+	The land I live on is on the borderlands between the countries of the Whadjuk and Bindjareb Noongar peoples, and was an important stopping point for Noongar people going from Mandurah toward the Swan River. This land has been the home of the Noongar people since time immemorial, and I look to them for guidance in understanding this, my native land. This land is precious, and the Noongar people have an appreciation of it that few others share.
+      </p>
+      <p>
+	I have also been influenced by the many cultures to be found in Perth city, and could not imagine my life without the great diversity of communities, colours, languages, and beliefs that have shaped how I see the world. I developed a keen interest in Asia over the years, pursuing Asian Studies and Linguistics for a while at university, and this interest has developed into a lifelong connection to the region and the people that has greatly enriched my life. I have been touched by all the people who have let me into their lives and showed me their languages and cultures, many becoming good friends of mine in the process.
+      </p>
+      <p>
+	A question I am often asked by people is "How many languages do you speak?". I always laugh and say "Only English, unfortunately", because English is still the only language I am able to have a fluent conversation in. However, I am always trying to learn various languages, including but not limited to Japanese, Chinese, Vietnamese, Indonesian, Persian, Arabic, Dzongkha, and the local Noongar language, and I have had varying degrees of success. My biggest problem has always been that I consider all languages worthy of learning, and I've never been able to preference only one over the others. Regardless of how Quixotic my efforts have been, I have learned a lot, and experienced many valuable things, and I will continue trying.
+      </p>
+      <p>
+	My hobbies are numerous, and in addition to learning about other languages and cultures, I keep myself busy with reading, history, photography, writing, and being in the great outdoors. Some of my photos will soon be available on my photography page, and at present I am attempting to take my writing practice more seriously and produce more work. I mostly write poetry as well as non-fiction pieces on my fields of interest, and I have several ideas for fiction that I'd like to try writing out at some point soon.
+      </p>
+    </main>
+    <footer>
+      <img src="../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>
+

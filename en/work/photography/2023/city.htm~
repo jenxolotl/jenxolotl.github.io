@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../../../index.htm">Home</a></li>
+	<li><a href="../../../../about.htm">About Me</a></li>
+	<li><a href="../../../../work.htm">My Work</a></li>
+	<li><a href="../../../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../../../noongar.htm">Noongar</a></li>
+	<li><a href="../../../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>City</h2>
+
+      <fig>
+	<img src="../city/20230309_152623.jpg" alt="The city skyline seen through a window at the State Library." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230310_175124.jpg" alt="Central Park seen between two skyscrapers from the plaza outside Elizabeth Quay Train Station." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230411_174651.jpg" alt="Skyscrapers seen from the park on the Perth Esplanade." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230413_182350.jpg" alt="The city skyline from across the Swan River at night." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230424_160834.jpg" alt="A CAT bus passes with Central Park and South32 towers in the background." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230508_165545.jpg" alt="View looking up between the towers at Brookside Plaza." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230529_160818.jpg" alt="Scooby Doo's Mystery Machine spotted parked on the street." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230607_161701.jpg" alt="View of Perth from bridge above the Graham Farmer Freeway." style="width:1520px; height:1140px;" />
+      </fig>
+      
+      <fig>
+	<img src="../city/20230622_170830.jpg" alt="An A-series train at Platform 6 of Perth Station, seen from above." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230624_105317.jpg" alt="BHP Building framed by a window inside the ferry on a rainy day." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230624_111113.jpg" alt="Brookside Plaza visible from an alleyway in the city." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230624_170718.jpg" alt="BHP Building and Spanda monument silhouetted against sun reflecting off a cloud." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_144117.jpg" alt="Rocky headlands and islands at Cape Le Grand." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20221228_144616.jpg" alt="A small plant growing in a rocky crevice, with the ocean visible in the background." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230101_111651.jpg" alt="Overtaking a road train on the highway out of Esperance." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230101_134341.jpg" alt="Distant hills seen across a wide dry farmland, with barbed wire fence in the foreground." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230101_134357.jpg" alt="A fence stretching to the horizon along a dry farm." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230101_134616.jpg" alt="A car appears tiny on a road surrounded by farmland." style="width:1520px; height:1140px;" />
+      </fig>
+
+      <fig>
+	<img src="../esperance/20230102_101110.jpg" alt="The partly dry Phillips River near Ravensthorpe." style="width:1520px; height:1140px;" />
+      </fig>
+      
+    </main>
+    <footer>
+      <img src="../../../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

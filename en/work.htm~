@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="index.htm">Home</a></li>
+	<li><a href="about.htm">About Me</a></li>
+	<li><b>My Work</b></li>
+	<li><a href="sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="aroundwa.htm">Around WA</a></li>
+	<li><a href="asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="noongar.htm">Noongar</a></li>
+	<li><a href="diary.htm">Dust in the Rain</a></li>
+	<li><a href="contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>My Work</h2>
+      <p>At the links below you can view examples of my creative work. I enjoy writing poetry and taking photos, and sometimes I do other kinds of writing as well. I occasionally do more academic writings in fields that I am interested in, mostly history, and those can be viewed at the "Academic" link.
+      </p>
+
+            <ul>
+	<li><a href="work/poetry.htm">Poetry</a></li>
+	<li><a href="work/writing.htm">Writing</a></li>
+	<li><a href="work/photography.htm">Photography</a></li>
+	<li><a href="work/academic.htm">Academic</a></li>
+	    </ul>
+	    
+    </main>
+    <footer>
+      <img src="../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

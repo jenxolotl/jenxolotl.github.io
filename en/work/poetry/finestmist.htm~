@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>The Finest Mist of Rain</h2>
+      <p>The finest mist of rain<br>
+	dances in the sapphic blue<br>
+	like a million tiny bugs,<br>
+	their graceful spin halting and lifting<br>
+	on the faintest gust of wind.
+      </p>
+
+      <p>They fill this vast expanse,<br>
+	still but for them and the frog<br>
+	whose odd croak is the rhythm<br>
+	to their erotic dance.
+      </p>
+
+      <p>Their floating world free in frailty;<br>
+	twists away and<br>
+	vanishes in the blink of an eye.
+      </p>
+      
+    </main>
+    <footer>
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

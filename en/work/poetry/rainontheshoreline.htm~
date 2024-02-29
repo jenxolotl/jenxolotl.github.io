@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>Rain on the Shoreline</h2>
+      
+      <p>The belting rain on the shoreline<br>
+	Melts into sand little craters<br>
+	That break the monotony<br>
+	Of so many evenings<br>
+	Battered into oblivion<br>
+	By unyielding politeness.
+      </p>
+
+      <p>A new life emerges<br>
+	In the scattered shapes<br>
+	Left behind<br>
+	As the tide withdraws<br>
+	And leaves in its place<br>
+	The gleaming portrait<br>
+	Of another world.
+      </p>
+
+      <p>Porcelain white it pierces<br>
+	The glittering sky and draws<br>
+	A pair of errant eyes down<br>
+	To the lonely light lingering<br>
+	On the horizon.
+      </p>
+
+      <p>This way has been walked before.</p>
+
+      <p>The broken waves churn<br>
+	The sand anew<br>
+	As the rain refreshes<br>
+	Its soft tableau<br>
+	And paints again its picture<br>
+	Of another world:
+      </p>
+
+      <p>A breathtaking view</p>
+      
+    </main>
+    <footer>
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../../../index.htm">Home</a></li>
+	<li><a href="../../../../about.htm">About Me</a></li>
+	<li><a href="../../../../work.htm">My Work</a></li>
+
+	<ul>
+	  <li><a href="../../../poetry.htm">Poetry</a></li>
+	  <li><a href="../../../writing.htm">Writing</a></li>
+	  <li><a href="../../../photography.htm">Photography ☜</a></li>
+	</ul>
+	
+	<li><a href="../../../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../../../noongar.htm">Noongar</a></li>
+	<li><a href="../../../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>City</h2>
+
+      <fig>
+	<img src="../city/20230309_152623.jpg" alt="The city skyline seen through a window at the State Library." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230310_175124.jpg" alt="Central Park seen between two skyscrapers from the plaza outside Elizabeth Quay Train Station." style="width:1140px; height:1520px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230411_174651.jpg" alt="Skyscrapers seen from the park on the Perth Esplanade." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230413_182350.jpg" alt="The city skyline from across the Swan River at night." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230424_160834.jpg" alt="A CAT bus passes with Central Park and South32 towers in the background." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230501_162557.jpg" alt="The Brittania on William hostel." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230501_165459.jpg" alt="Graffiti on a window in an underpass, with a truck on the street." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230508_165545.jpg" alt="View looking up between the towers at Brookside Plaza." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230523_162636.jpg" alt="A nearly empty Forrest Chase on a rainy day." style="width:1140px; height:1520px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230523_162755.jpg" alt="The Murray St Mall on a rainy day." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230523_162943.jpg" alt="South 32 tower and Central Perk seen from Hay St Mall" style="width:1140px; height:1520px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230515_164651.jpg" alt="Students walk across the street outside Curtin Law School at sunset." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230529_160818.jpg" alt="Scooby Doo's Mystery Machine spotted parked on the street." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230530_162448.jpg" alt="Apartment complex seen through a fence." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230607_161223.jpg" alt="An A-series train arriving at the platform, with Perth skyline in the backdrop." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230607_161701.jpg" alt="View of Perth from bridge above the Graham Farmer Freeway." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230613_171118.jpg" alt="View of Perth skyline from Elizabeth Quay Bridge." style="width:1520px; height: 1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230613_171632.jpg" alt="Cars racing to enter the Kwinana Freeway near Elizabeth Quay station." style="width:1520px; height: 1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230621_161653.jpg" alt="Cranes in silhouette by the entrance to Perth station." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+      
+      <fig>
+	<img src="../city/20230622_170830.jpg" alt="An A-series train at Platform 6 of Perth Station, seen from above." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230622_171000.jpg" alt="Roe Street seen at dusk from the bridge to Northbridge." style="width:1520px; height=1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230622_174022.jpg" alt="A statue of a monkey with the State Library of WA in the background." style="width:1520px; height: 1140px;" class="photo" />
+
+	<fig>
+	  <img src="../city/20230624_102440.jpg" alt="A cloud partly covers the Perth skyline, seen from across the Swan River." style="width:1520px; height: 1140px;" class="photo" />
+	</fig>
+
+      <fig>
+	<img src="../city/20230624_105317.jpg" alt="BHP Building framed by a window inside the ferry on a rainy day." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230624_111113.jpg" alt="Brookside Plaza visible from an alleyway in the city." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230624_170718.jpg" alt="BHP Building and Spanda monument silhouetted against sun reflecting off a cloud." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230624_174433.jpg" alt="Perth city skyline seen from across the Swan River at twilight." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230629_125204.jpg" alt="Black and white photo of South 32 Building and Central Park seen from Murray Street Mall." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230630_164915(0).jpg" alt="Hay Street mall seen from above." style="width:1520px; height: 1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230704_164355.jpg" alt="A man stopped in a turning lane on his motorbike with South 32 tower in the background." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230704_164634.jpg" alt="South 32 peeks over some buildings with a tree branch in foreground appearing to touch it." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230710_165116.jpg" alt="The Perth Town Hall, with traffic light in foreground." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230718_165024.jpg" alt="Skyscrapers looking west down Wellington St." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230718_165144.jpg" alt="Busy traffic on Wellington Street." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230718_165349.jpg" alt="Busy street scene in Perth CBD." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230724_165345.jpg" alt="A graffiti covered building with fire escape juxtaposed with a modern high rise complex." style="width:1520px; height: 1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230724_165416.jpg" alt="Graffiti covered buildings." style="width:1520px; height: 1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230726_163731.jpg" alt="Australian government flags silhouetted by rainy sunset on Wellington Street." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230726_164039.jpg" alt="Wellington Street in heavy rain at sunset." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230726_164125.jpg" alt="A double rainbow, seen from the Citiplace car park building." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230727_165725.jpg" alt="South 32 and Central Park Towers seen from just outside the Hay St Mall, with Coffee flag in foreground." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230730_173110.jpg" alt="A bokeh shot through a chain link fence of Barracks St." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230731_130100.jpg" alt="Picturesque clouds over the football field at Wellington Square." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+            <fig>
+	<img src="../city/20230731_171657.jpg" alt="Perth skyline seen through a barbed wire fence near Meltham Station." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230803_163954.jpg" alt="Central Park and South 32 Towers seen behind the Wellington Street Catwalk." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230803_164108.jpg" alt="View down Wellingston Street eastbound from the catwalk." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230803_164149.jpg" alt="View of Forrest Place and Wellington Street." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230803_164747.jpg" alt="People crossing the street from the Hay Street Mall." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230803_173437.jpg" alt="View down Roe Street as the sun sets." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230804_164605.jpg" alt="View down Murray Street towards Town Hall." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230804_170053.jpg" alt="A bike rides past on the Murray Street Mall." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230811_161225.jpg" alt="View of Perth CBD overlooking The Stockade from near the Citiplace car park." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+            <fig>
+	<img src="../city/20230811_161231.jpg" alt="A bike waiting at traffic lights at an intersection on Wellington Street." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230813_125615.jpg" alt="View of the Swan River from an apartment building in Claremont." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../city/20230813_143341.jpg" alt="View of Perth from Kings Park." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+      
+    </main>
+    <footer>
+      <img src="../../../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

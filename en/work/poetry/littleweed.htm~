@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>Little Weed</h2>
+
+      <p>little trembly weed<br>
+	out here shakin<br>
+	quietly in your place<br>
+	like a little boy<br>
+	caught gently in the breeze
+      </p>
+
+      <p>standing out in the cold<br>
+	by the pool<br>
+	when all the children are gone<br>
+	you look so small down there
+      </p>
+
+      <p>little leaves<br>
+	frightened eyes<br>
+	did a grown up leave you behind<br>
+	where are your parents?
+      </p>
+
+      <p>you know you'll catch a cold<br>
+	out here by yourself<br>
+	in this paver jungle<br>
+	with the pilferers and perverts<br>
+	poking at you all round
+      </p>
+
+      <p>yeah they'll hack you down<br>
+	in the jungles or the deserts<br>
+	little weedy boi<br>
+	but not me
+      </p>
+
+      <p>I'll look you right in the eyes and say<br>
+	you can stay right here<br>
+	in the asphalt playground<br>
+	and maybe if you hang around a bit
+      </p>
+
+      <p>you'll end up like them<br>
+	the men of heft and stature<br>
+	hangin round the fence<br>
+	tall and mighty
+      </p>
+
+      <p>a public nuisance.</p>
+      
+    </main>
+    <footer>
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

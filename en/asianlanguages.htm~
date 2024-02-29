@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="index.htm">Home</a></li>
+	<li><a href="about.htm">About Me</a></li>
+	<li><b>My Work</b></li>
+	<li><a href="sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="aroundwa.htm">Around WA</a></li>
+	<li><a href="asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="noongar.htm">Noongar</a></li>
+	<li><a href="diary.htm">Dust in the Rain</a></li>
+	<li><a href="contact.htm">Contact</a></li>
+      </ul>
+      
+     <!-- <ul>
+	<li><a href="arabic.htm">Arabic</a></li>
+	<li><a href="balinese.htm">Balinese</a></li>
+	<li><a href="chinese.htm">Chinese</a></li>
+	<li><a href="dzongkha.htm">Dzongkha</a></li>
+	<li><a href="indonesianmalay.htm">Indonesian & Malay</a></li>
+	<li><a href="japanese.htm">Japanese</a></li>
+	<li><a href="javanese.htm">Javanese</a></li>
+	<li><a href="korean.htm">Korean</a></li>
+	<li><a href="persian.htm">Persian</a></li>
+	<li><a href="tibetan.htm">Tibetan</a></li>
+	<li><a href="vietnamese.htm">Vietnamese</a></li>
+      </ul> -->
+    </header>
+
+    <main>
+      <h2>Asian Language Centre</h2>
+      <p>I am too obsessed with the languages and cultures of Asia for my own good. This page will feature links to information about the Asian languages I have studied, which I hope will be useful for anyone else interested in them.
+      </p>
+    </main>
+    <footer>
+      <img src="../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

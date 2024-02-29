@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>Procession</h2>
+      <p>Into the bitter cold of darkness<br>
+	A parade of powdered lights<br>
+	Like a funeral procession
+      </p>
+
+      <p>Moves solemnly<br>
+	Down winding roads<br>
+	To the same destination
+      </p>
+
+      <p>The glass paned graveyards<br>
+	And dust filled crematoria<br>
+	Of youthful imagination
+      </p>
+
+      <p>It is in their eyes<br>
+	And the pock marks<br>
+	On their face
+      </p>
+
+      <p>The lights stop<br>
+	And change colour to match<br>
+	The dour red of
+      </p>
+
+      <p>Disappointed hopes and dreams<br>
+	Caught in glimpses<br>
+	On hi-vis vests and
+      </p>
+
+      <p>The stream of metal boxes<br>
+	Flowing too tight<br>
+	To breathe.
+      </p>
+
+      <p>It will all be over soon.</p>
+
+      <p>The stone slabs shimmer<br>
+	In monumental brilliance<br>
+	As cheap coffee covers
+      </p>
+
+      <p>The strain<br>
+	Behind photographic smiles
+      </p>
+
+      <p>I see my name<br>
+	And want to turn but<br>
+	There is nowhere to move.
+      </p>
+      
+    </main>
+    <footer>
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

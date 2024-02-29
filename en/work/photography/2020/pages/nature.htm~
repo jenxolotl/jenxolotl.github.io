@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../../../index.htm">Home</a></li>
+	<li><a href="../../../../about.htm">About Me</a></li>
+	<li><a href="../../../../work.htm">My Work</a></li>
+
+	<ul>
+	  <li><a href="../../../poetry.htm">Poetry</a></li>
+	  <li><a href="../../../writing.htm">Writing</a></li>
+	  <li><a href="../../../photography.htm">Photography ☜</a></li>
+	</ul>
+	
+	<li><a href="../../../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../../../noongar.htm">Noongar</a></li>
+	<li><a href="../../../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>Nature</h2>
+
+      <fig>
+	<img src="../DSCN7556.JPG" alt="A streak of light crosses a pelican's bill as it swims across the water." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN7560.JPG" alt="Streaks of light frame a seagull standing in shallow water." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN7566.JPG" alt="A seabird sits on top of a buoy" style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN7597.JPG" alt="A seabird perches next to a seagull on a wooden fence at the beach." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN7771.JPG" alt="A large flock of pelicans form a V-formation across the sky." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN7773.JPG" alt="Close-up of pelicans flying in formation across the sky." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+      
+      <fig>
+	<img src="../DSCN7889.JPG" alt="Close-up of a willy-wagtail sitting on a fence." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN7945.JPG" alt="Close-up of a kookaburra with a drop of water on its beak." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN8102.JPG" alt="Close-up of a frog holding onto a plastic plant pot in a pool." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN8416.JPG" alt="Land in the distance across the ocean." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN8824.JPG" alt="A forest scene with a line of flowers and trees in the background." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN8862.JPG" alt="A fairy wren standing in a bed of clovers." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+            <fig>
+	<img src="../DSCN9030.JPG" alt="Two lizards resting on a wooden log." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN9160.JPG" alt="Cows line up along a fence on a rural farm." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN9220.JPG" alt="A group of ducks criss-cross the screen." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+
+      <fig>
+	<img src="../DSCN9244.JPG" alt="Cows rest in an open field." style="width:1520px; height:1140px;" class="photo" />
+      </fig>
+      
+    </main>
+    <footer>
+      <img src="../../../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

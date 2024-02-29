@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="index.htm">Home</a></li>
+	<li><a href="about.htm">About Me</a></li>
+	<li><a href="work.htm">My Work</a></li>
+	<li><a href="sandgroper.htm">The Sandgroper</a></li>
+	<li><b>Around WA</b></li>
+	<li><a href="asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="noongar.htm">Noongar</a></li>
+	<li><a href="diary.htm">Dust in the Rain</a></li>
+	<li><a href="contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>Around WA</h2>
+      <p>On this page you can find links to some Western Australian stuff I've been working on. Read about the life and work of 20th century poet and Labor activist Oscar Walters, or check out my project documenting Perth's graffiti scene.
+      </p>
+      <ul>
+	<li><a href="aroundwa/oscarwalters.htm">The Oscar Walters Project</a></li>
+	<li><a href="aroundwa/perthgraffiti.htm">The Perth Graffiti Project</a></li>
+      </ul>
+      
+    </main>
+    <footer>
+      <img src="../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

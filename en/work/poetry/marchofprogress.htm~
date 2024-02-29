@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>The March of Progress</h2>
+
+      <p>Time<br>
+	Leeching away<br>
+	It leaves me covered in marks and sores
+      </p>
+
+      <p>As it draws from me<br>
+	From every pore<br>
+	And frozen fingertips<br>
+	A mind fixed on the clock
+      </p>
+
+      <p>No time<br>
+	No time<br>
+	Love, family, friends<br>
+	Seem so far away<br>
+	On the long march forward
+      </p>
+
+      <p>Never backwards<br>
+	Or you will drown like the others<br>
+	The incomprehensible heaps of clothing<br>
+	In the doorways and the gutters<br>
+	Along the winding road
+      </p>
+
+      <p>Everything must wait its turn<br>
+	Always a next time<br>
+	What about this time?
+      </p>
+
+      <p>Does happiness lie<br>
+	In the rising glow of the morning sun<br>
+	The misty hills across the river<br>
+	Or the smiling face
+      </p>
+
+      <p>Of a passing stranger.</p>
+      
+    </main>
+    <footer>
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

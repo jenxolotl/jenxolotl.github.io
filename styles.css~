@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+}
+
+header > ul {
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+header > ul > li {
+    background-color: cornsilk;
+    border-top: 2px solid navajowhite;
+    border-right: 2px solid navajowhite;
+    border-bottom: 1px solid navajowhite;
+    border-left: 1px solid navajowhite;
+}
+
+header ul li {
+    background-color: cornsilk;
+}
+
+header ul ul {
+    list-style-type: none;
+}
+
+header ul  ul li {
+    border-right: 1px solid navajowhite;
+}
+
+header ul ul li:first-child {
+    border-top: 1px solid navajowhite;
+}
+
+header ul ul li:last-child {
+    border-bottom: 1px solid navajowhite;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: cornsilk;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+main {
+    flex: 1 0 auto;
+    width: 100%;
+}
+
+
+footer {
+    position:sticky;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width:50%;
+    border-inline: 4px solid navajowhite;
+    border-top: 1px solid navajowhite;
+    background-color: mintcream;
+    text-align: center;
+}
+
+footer img {
+    object-fit: scale-down;
+    max-width: 100%;
+}
+
+figcaption {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.photo {
+    display: block;
+    max-width: 100%;
+    object-fit: scale-down;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: 2px solid wheat;
+    border-right: 5px solid wheat;
+    border-top: 2px solid wheat;
+}
+
+.attribution {
+    text-align: center;
+}
+
+.graphic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: mintcream;
+    border-inline:1px solid navajowhite;
+    border-bottom:1px solid navajowhite;
+}
+
+h2 {
+    text-align: center;
+    background-color: beige;
+    border-inline:1px solid navajowhite;
+    border-bottom:1px solid navajowhite;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+a:link {
+    color: saddlebrown;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkslategrey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: sandybrown;
+}
+
+a:active {
+    color: indianred;
+}
+
+
+

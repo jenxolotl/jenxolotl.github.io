@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name ="author" content="Jenxolotl">
+    <meta name ="description" content="The official website of Jenxolotl.">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title> Official Website of Jenxolotl™</title>
+    <!---
+                      *            *
+                   *  **  *    *  **  *
+                   ***""***    ***""***
+                     *""*        *""*
+                    ***""***  ***""***
+                       *""*    *""*
+                           ^^^^
+                       ^^^^     ^^^^
+                    ^^^  _      _   ^^^
+                  ^^^   |_|    |_|    ^^^
+                 ^^^    |_|    |_|     ^^^
+                ^^^ --             --   ^^^
+                 ^^ ||             ||   ^^
+                  ^^ \\            //  ^^
+                   ^^  ============   ^^ 
+                    ^^               ^^
+                      ^^^^^^^^^^^^^^^
+                      I'M AN AXOLOTL!
+                      ^^^^^^^^^^^^^^^
+                        南無阿彌陀佛
+ -->
+    
+  </head>
+
+  <body>
+    <header>
+      <h1>Jenxolotl</h1>
+      <ul>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
+      </ul>
+      
+    </header>
+
+    <main>
+      <h2>New Clothes</h2>
+
+      <p>I don't quite fit the dress's seams<br>
+	These lines of fabric tug and pull<br>
+	At tender places, and reveal<br>
+	The shapes I'd rather not see
+      </p>
+
+      <p>The top of my figure is a little small<br>
+	And leaves an awkward space<br>
+	Between outsize expectations<br>
+	And the actual thing,
+      </p>
+
+      <p>The jawline on my face.<br>
+	Struggling I twist and turn into<br>
+	My expected role, contorting<br>
+	Through unreasonable threads
+      </p>
+
+      <p>The same way that I bend my vowels<br>
+	And jam up rising tones<br>
+	Trying to move my lips in grace<br>
+	Given the sounds of another's speech
+      </p>
+
+      <p>To make something I can call my own</p>
+
+      <p>I've stumbled in wearing heels and<br>
+	Tripped in writing songs,<br>
+	Only finding my feet when I found<br>
+	The feminine has many accents
+      </p>
+
+      <p>And different does not mean wrong.</p>
+      
+    </main>
+    <footer>
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <p>©Jenxolotl 2024. All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>
