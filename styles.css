@@ -143,5 +143,10 @@ a:active {
     color: indianred;
 }
 
+hr {
+    border-style: solid;
+    border-color: navajowhite;
+}
+
 
 
