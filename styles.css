@@ -148,5 +148,27 @@ hr {
     border-color: navajowhite;
 }
 
+p {
+    padding-inline: 1%;
+    max-width: 85%;
+}
+
+.diaryentry {
+    padding-inline: 1%;
+    max-width: 85%;
+}
+
+.diaryentry h3 {
+    border-bottom: 1px solid navajowhite;
+}
+
+.date {
+    font-weight: bold;
+    border-top: 2px solid navajowhite;
+    border-right: 2px solid navajowhite;
+    border-left: 1px solid navajowhite;
+    border-bottom: 1px solid navajowhite;
+}
+
 
 
