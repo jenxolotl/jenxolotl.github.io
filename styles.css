@@ -148,14 +148,14 @@ hr {
     border-color: navajowhite;
 }
 
-p {
+.content {
     padding-inline: 1%;
-    max-width: 85%;
+    text-align: justify;
+    max-width: 90%;
 }
 
 .diaryentry {
     padding-inline: 1%;
-    max-width: 85%;
 }
 
 .diaryentry h3 {
@@ -169,6 +169,12 @@ p {
     border-left: 1px solid navajowhite;
     border-bottom: 1px solid navajowhite;
 }
+
+.mainsplash p {
+    padding-inline: 0px;
+    max-width: 100%;
+}
+    
 
 
 
