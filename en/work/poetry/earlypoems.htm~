@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name ="author" content="Jenxolotl">
-    <meta name ="description" content="Poetry - To an Old Friend (2015) - Jenxolotl">
+    <meta name ="description" content="Early Poems of Jenxolotl">
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="../../../styles.css">
-    <title>Poetry - To an Old Friend (2015) - Jenxolotl</title>
+    <link rel="stylesheet" href="../../styles.css">
+    <title>Early Poems (2014-2016) - Jenxolotl</title>
     <!---
                       *            *
                    *  **  *    *  **  *
@@ -41,11 +41,11 @@
 	<li><a href="../../work.htm">My Work</a></li>
 
 	<ul>
-	  <li><a href="../poetry.htm">Poetry ☜</a></li>
+	  <li><b>Poetry</b></li>
 	  <li><a href="../writing.htm">Writing</a></li>
 	  <li><a href="../photography.htm">Photography</a></li>
 	</ul>
-	
+
 	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
 	<li><a href="../../aroundwa.htm">Around WA</a></li>
 	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
@@ -57,19 +57,31 @@
     </header>
 
     <main>
-      <h2>To an Old Friend</h2>
-
+      <h2>Early Poems (2014-2016)</h2>
       <div class="content">
-      <p>Endless winter nights,<br>
-	Wind howling in the rafters;<br>
-	A child cowered under blankets<br>
-	Leaps out of bed
+      <p>
+	I have been writing poetry on and off for ten years now, and I am pleased to offer this collection of my poems for the public to enjoy. These poems all mean something to me, and I hope that others will find their own meanings and things to appreciate in my words. For the past year I have been writing much more frequently as I try to take my poetry more seriously, and I hope that I will have many more poems to add to this collection in the years to come.
       </p>
+
+      <hr>
+
+      <ul>
+	<b>2014-2015</b>
+	<li><a href="poetry/earlyhaiku.htm">Early Haiku</a></li>
+	<b>2015</b>
+	<li><a href="earlypoems/angst.htm">Angst</a></li>
+	<li><a href="earlypoems/inundation.htm">Inundation</a></li>
+	<li><a href="earlypoems/toanoldfriend.htm">To an Old Friend</a></li>
+	<li><a href="earlypoems/flying.htm">Flying</a></li>
+	<li><a href="earlypoems/keeperswarning.htm">The Keeper’s Warning</a></li>
+	<li><a href="earlypoems/snowflakesonaquietevening.htm">Snowflakes on a Quiet Evening</a></li>
+	<b>2016</b>
+	<li><a href="earlypoems/2011-03-11.htm">2011-03-11</a></li>
+      </ul> 
       </div>
-      
     </main>
     <footer>
-      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <img src="../../graphics/tag.png" alt="Tag of Jenxolotl">
       <p>©Jenxolotl 2024. All rights reserved.</p>
     </footer>
     
