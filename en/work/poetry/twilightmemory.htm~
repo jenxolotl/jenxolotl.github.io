@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name ="author" content="Jenxolotl">
-    <meta name ="description" content="Photography - Prison (2008) - Jenxolotl">
+    <meta name ="description" content="Poetry - Twilight (A Memory) (2025) - by Jenxolotl">
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="../../../../../styles.css">
-    <title>Photography - Prison (2008) - Jenxolotl</title>
+    <link rel="stylesheet" href="../../../styles.css">
+    <title>Poetry - Twilight (A Memory) (2025) - by Jenxolotl</title>
     <!---
                       *            *
                    *  **  *    *  **  *
@@ -36,37 +36,41 @@
     <header>
       <h1>Jenxolotl</h1>
       <ul>
-	<li><a href="../../../../index.htm">Home</a></li>
-	<li><a href="../../../../about.htm">About Me</a></li>
-	<li><a href="../../../../work.htm">My Work</a></li>
+	<li><a href="../../index.htm">Home</a></li>
+	<li><a href="../../about.htm">About Me</a></li>
+	<li><a href="../../work.htm">My Work</a></li>
 
 	<ul>
-	  <li><a href="../../../poetry.htm">Poetry</a></li>
-	  <li><a href="../../../writing.htm">Writing</a></li>
-	  <li><a href="../../../photography.htm">Photography ☜</a></li>
+	  <li><a href="../poetry.htm">Poetry ☜</a></li>
+	  <li><a href="../writing.htm">Writing</a></li>
+	  <li><a href="../photography.htm">Photography</a></li>
 	</ul>
-		 
-	<li><a href="../../../../sandgroper.htm">The Sandgroper</a></li>
-	<li><a href="../../../../aroundwa.htm">Around WA</a></li>
-	<li><a href="../../../../asianlanguages.htm">Asian Language Centre</a></li>
-	<li><a href="../../../../noongar.htm">Noongar</a></li>
-	<li><a href="../../../../diary.htm">Dust in the Rain</a></li>
-	<li><a href="../../../../contact.htm">Contact</a></li>
+		
+	<li><a href="../../sandgroper.htm">The Sandgroper</a></li>
+	<li><a href="../../aroundwa.htm">Around WA</a></li>
+	<li><a href="../../asianlanguages.htm">Asian Language Centre</a></li>
+	<li><a href="../../noongar.htm">Noongar</a></li>
+	<li><a href="../../diary.htm">Dust in the Rain</a></li>
+	<li><a href="../../contact.htm">Contact</a></li>
       </ul>
       
     </header>
 
     <main>
-      <h2>Prison (2008)</h2>
-
-      <fig>
-	<img src="../Prison.jpg" alt="An image of a small tent in a gravel field surrounded by fence, seen through iron bars." class="photo" />
-      </fig>
+      <h2>Twilight (A Memory)</h2>
       
+      <div class="content">
+	<p>
+	  How the orange-belted night<br>
+	  Reminds me of Petrudor Rocks;<br>
+	  Still kissed to sleep<br>
+	  Under the Southern Cross
+	</p>
+      </div>
       
     </main>
     <footer>
-      <img src="../../../../../graphics/tag.png" alt="Tag of Jenxolotl">
+      <img src="../../../graphics/tag.png" alt="Tag of Jenxolotl">
       <p>©Jenxolotl 2024. All rights reserved.</p>
     </footer>
     
